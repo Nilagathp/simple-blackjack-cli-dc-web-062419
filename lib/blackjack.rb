@@ -29,7 +29,7 @@ def initial_round
   return sum
 end
 
-def hit? (cur)
+def hit? (current_total)
   # code hit? here
 end
 
